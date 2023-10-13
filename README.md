@@ -5,7 +5,7 @@ Hackathon 2023 ,Solana
 git clone https://github.com/Hiram20buz/ZANEARI.git
 
 ## How to run locally
-cd zaneari
+cd zaneari/zaneari
 
 npm i --force
 
